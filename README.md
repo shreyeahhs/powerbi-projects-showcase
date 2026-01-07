@@ -25,6 +25,14 @@ Each project typically includes:
 
 ---
 
+## 📊 Featured Dashboards
+
+- [**Anime Ratings & Trends Dashboard**](./Anime-analysis) – Exploratory study of anime ratings, popularity, and genre-level trends.
+- [**Harry Potter Statistics Analysis**](./HarryPotter-stats) – Analysis of characters, houses, and magical statistics.
+- [**Pokémon Analytics Dashboard**](./Pokemon-stats) – Detailed exploration of Pokémon stats, types, and generational distributions.
+
+---
+
 ## Focus Areas
 
 Projects may cover (but are not limited to):
