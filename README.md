@@ -30,6 +30,9 @@ Each project typically includes:
 - [**Anime Ratings & Trends Dashboard**](./Anime-analysis) – Exploratory study of anime ratings, popularity, and genre-level trends.
 - [**Harry Potter Statistics Analysis**](./HarryPotter-stats) – Analysis of characters, houses, and magical statistics.
 - [**Pokémon Analytics Dashboard**](./Pokemon-stats) – Detailed exploration of Pokémon stats, types, and generational distributions.
+- [**Hospital Patient Experience Survey Analytics**](./Hospital-analysis) – Comparative analysis of healthcare quality across multiple hospitals.
+- [**Sales Performance & Profitability Dashboard**](./Sales-analysis) – Global sales performance tracking with deep dives into profit margins.
+- [**UK SEN Pupils Analysis Dashboard**](./UK-SEN-analysis) – Structural analysis of Special Educational Needs (SEN) trends in England.
 
 ---
 
